@@ -1,2 +1,2 @@
-# Ignite_Lab_ReactJS
- Rocketseat Ignite Lab
+# Ignite Lab ReactJS
+ Evento da Rocketseat, Ignite Lab com React JS e outras tecnologias....
